@@ -1,2 +1,2 @@
-# CertGenerator425
+# CertGenerator
 Certificate Generator Using Python
